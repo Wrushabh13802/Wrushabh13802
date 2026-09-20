@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Wrushabh13802
-- 👀 I’m interested in Learning new Technologies.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me..
+- 👋 Hi, I’m Wrushabh Parkhi
+- 👀 I’m interested in Learning new Technologies and integrate it in to projects.
+- 🌱 I’m currently working at Marsh as a software developer.
+- 💞️ I’m looking to collaborate on... Linkedin -  Wrushabh Parkhi
+- 📫 How to reach me..  via -  Linkedin : Wrushabh Parkhi ,  Email : WrushabhParkhi123@gmail.com
 
 <!---
 Wrushabh13802/Wrushabh13802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
